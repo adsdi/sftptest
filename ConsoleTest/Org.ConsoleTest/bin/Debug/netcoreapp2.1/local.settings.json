@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;BlobEndpoint=https://sftpstgpcdbrq7oel35c.blob.core.windows.net/;TableEndpoint=https://sftpstgpcdbrq7oel35c.table.core.windows.net/;QueueEndpoint=https://sftpstgpcdbrq7oel35c.queue.core.windows.net/;FileEndpoint=https://sftpstgpcdbrq7oel35c.file.core.windows.net/",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}

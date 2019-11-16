@@ -1,0 +1,7 @@
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\bin\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.deps.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\bin\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\bin\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.pdb
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\obj\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.AssemblyInfoInputs.cache
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\obj\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.AssemblyInfo.cs
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\obj\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\libs\Org.SftpTest.AzLibs.SftpTestEntry\obj\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.pdb

@@ -1,0 +1,17 @@
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.ConsoleTest.deps.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.ConsoleTest.runtimeconfig.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.ConsoleTest.runtimeconfig.dev.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.ConsoleTest.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.ConsoleTest.pdb
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\Org.SftpTest.AzLibs.SftpTestEntry.pdb
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.csprojAssemblyReference.cache
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.AssemblyInfoInputs.cache
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.AssemblyInfo.cs
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.csproj.CopyComplete
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\obj\Debug\netcoreapp2.1\Org.ConsoleTest.pdb
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\host.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\local.settings.json
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\SftpTest.dll
+C:\DEV\ADSDI\GITHUB\ADSDI\sftptest\ConsoleTest\Org.ConsoleTest\bin\Debug\netcoreapp2.1\SftpTest.pdb
