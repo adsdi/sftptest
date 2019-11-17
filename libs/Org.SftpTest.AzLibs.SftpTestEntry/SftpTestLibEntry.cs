@@ -8,7 +8,7 @@ namespace Org.SftpTest.AzLibs.SftpTestEntry {
         string crlf = Environment.NewLine;
 
         public async Task<SftpTestResult> Run(ILogger log, SftpParms sftpParms) {
-            log.LogInformation($"Running Sftp Library '{sftpParms.SftpLibrary}'{crlf}  URL:{sftpParms.SftpUrl}{crlf}  HostFingerprint: {sftpParms.SftpHostFingerprint}{crlf}  " + 
+            log.LogInformation($"*** Running Sftp Library *** '{sftpParms.SftpLibrary}'{crlf}  URL:{sftpParms.SftpUrl}{crlf}  HostFingerprint: {sftpParms.SftpHostFingerprint}{crlf}  " + 
                    $"UserName:{sftpParms.SftpUserName}{crlf}  Password:{sftpParms.SftpPassword}{crlf}  KellermanUser:{sftpParms.SftpKellermanUser}{crlf}  " +
                    $"KellermanLicense:{sftpParms.SftpKellermanLicense}{crlf}");
 
