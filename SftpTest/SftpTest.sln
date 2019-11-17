@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SftpTest", "SftpTest.csproj", "{8078E4CC-A38B-48E9-AA8F-EF6D74505866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SftpTest", "SftpTest.csproj", "{8078E4CC-A38B-48E9-AA8F-EF6D74505866}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Azure Function Entry", "01 - Azure Function Entry", "{3B797A9A-BCB9-496F-9F14-3D4469746145}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Azure Function Libs Main Entry", "02 Azure Function Libs Main Entry", "{5BFBEFC5-D1B6-4A42-9BFA-F5D537DE47C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.SftpTest.AzLibs.SftpTestEntry", "..\..\libs\Org.SftpTest.AzLibs.SftpTestEntry\Org.SftpTest.AzLibs.SftpTestEntry.csproj", "{DEA28455-90E1-46A6-9EDA-6A98FFA29864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Org.SftpTest.AzLibs.SftpTestEntry", "..\libs\Org.SftpTest.AzLibs.SftpTestEntry\Org.SftpTest.AzLibs.SftpTestEntry.csproj", "{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Org.ConsoleTest", "..\..\ConsoleTest\Org.ConsoleTest\Org.ConsoleTest.csproj", "{70E5626F-B3E3-4176-A01C-409ADBB794A1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Console Testing Program", "01 - Console Testing Program", "{65A6F7FC-7405-4807-BE39-7D0ACDF7F49F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Test Console", "01 - Test Console", "{D1596F88-0637-4693-9A4A-CD55825AF2AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Org.ConsoleTest", "..\ConsoleTest\Org.ConsoleTest\Org.ConsoleTest.csproj", "{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,22 +25,22 @@ Global
 		{8078E4CC-A38B-48E9-AA8F-EF6D74505866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8078E4CC-A38B-48E9-AA8F-EF6D74505866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8078E4CC-A38B-48E9-AA8F-EF6D74505866}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DEA28455-90E1-46A6-9EDA-6A98FFA29864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DEA28455-90E1-46A6-9EDA-6A98FFA29864}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DEA28455-90E1-46A6-9EDA-6A98FFA29864}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DEA28455-90E1-46A6-9EDA-6A98FFA29864}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70E5626F-B3E3-4176-A01C-409ADBB794A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70E5626F-B3E3-4176-A01C-409ADBB794A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70E5626F-B3E3-4176-A01C-409ADBB794A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70E5626F-B3E3-4176-A01C-409ADBB794A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8078E4CC-A38B-48E9-AA8F-EF6D74505866} = {3B797A9A-BCB9-496F-9F14-3D4469746145}
-		{DEA28455-90E1-46A6-9EDA-6A98FFA29864} = {5BFBEFC5-D1B6-4A42-9BFA-F5D537DE47C8}
-		{70E5626F-B3E3-4176-A01C-409ADBB794A1} = {D1596F88-0637-4693-9A4A-CD55825AF2AA}
+		{B744A657-45CD-4AC1-8FDE-B866BA2D1F5D} = {5BFBEFC5-D1B6-4A42-9BFA-F5D537DE47C8}
+		{9BD6400A-5E94-4ACE-BD7A-FC049ABEB131} = {65A6F7FC-7405-4807-BE39-7D0ACDF7F49F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F65AB086-349C-4216-9013-0FA282EF91DD}

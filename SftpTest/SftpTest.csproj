@@ -7,7 +7,7 @@
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.29" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\libs\Org.SftpTest.AzLibs.SftpTestEntry\Org.SftpTest.AzLibs.SftpTestEntry.csproj" />
+    <ProjectReference Include="..\libs\Org.SftpTest.AzLibs.SftpTestEntry\Org.SftpTest.AzLibs.SftpTestEntry.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
