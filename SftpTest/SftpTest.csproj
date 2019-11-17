@@ -8,6 +8,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\libs\Org.SftpTest.AzLibs.SftpTestEntry\Org.SftpTest.AzLibs.SftpTestEntry.csproj" />
+    <ProjectReference Include="..\Org.SftpTest.Shared\Org.SftpTest.Shared.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">

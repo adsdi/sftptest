@@ -6,12 +6,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Logging" Version="2.1.0" />
+    <PackageReference Include="NetSFTPLibrary" Version="6.13.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Org.SftpTest.Kellerman\Org.SftpTest.Kellerman.csproj" />
-    <ProjectReference Include="..\..\Org.SftpTest.Shared\Org.SftpTest.Shared.csproj" />
-    <ProjectReference Include="..\..\Org.SftpTest.WinScp\Org.SftpTest.WinScp.csproj" />
+    <ProjectReference Include="..\Org.SftpTest.Shared\Org.SftpTest.Shared.csproj" />
   </ItemGroup>
 
 </Project>
