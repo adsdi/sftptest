@@ -11,7 +11,7 @@ namespace SftpTest
     public static class SftpTestFunctionEntry
     {
         [FunctionName("SftpTestFunction")]
-        public async static Task Run([TimerTrigger("0 */15 * * * *")]TimerInfo myTimer, ILogger log, ExecutionContext context)
+        public async static Task Run([TimerTrigger("0 */10 * * * *")]TimerInfo myTimer, ILogger log, ExecutionContext context)
         {
             log.LogInformation($"The SftpTest Azure Function is beginning at: {DateTime.Now}");
 
@@ -38,7 +38,7 @@ namespace SftpTest
             sftpParms.SftpUrl = System.Environment.GetEnvironmentVariable("SftpUrl");
             sftpParms.SftpHostFingerprint = System.Environment.GetEnvironmentVariable("SftpHostFingerprint");
             sftpParms.SftpLibrary = System.Environment.GetEnvironmentVariable("SftpLibrary");
-            if (DateTime.Now.Minute.ToString()[0].ToString().In("0,3")) {
+            if (DateTime.Now.Minute.ToString()[0].ToString().In("0,2,4")) {
                 sftpParms.SftpLibrary = "Kellerman";
             }
             else {
