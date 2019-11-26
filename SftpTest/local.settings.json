@@ -1,0 +1,28 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "SftpHostFingerprint": "ssh-rsa 2048 82:db:da:51:aa:cc:e7:db:06:61:b9:eb:0a:3b:c2:f2",
+    "SftpKellermanLicense": "2;711FE70E7A5F257E77C857B29619A6EBD8",
+    "SftpKellermanUser": "hcms 202233",
+    "SftpLibrary": "Kellerman",
+    "SftpPassword": "sftptest@Kellerman",
+    "SftpUrl": "13.66.80.143",
+    "SftpUserName": "sftptest",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "sftptest",
+    "WEBSITE_RUN_FROM_PACKAGE": 1,
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "b904774c-afa5-4fc4-8920-4630a36bf0b0"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  },
+  "ConnectionStrings": {
+    "SQLConnectionString": "<sqlclient-connection-string>"
+  }
+}
