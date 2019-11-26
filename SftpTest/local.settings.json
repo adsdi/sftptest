@@ -5,7 +5,7 @@
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;EndpointSuffix=core.windows.net",
     "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sftpstgpcdbrq7oel35c;AccountKey=2IT1SigBZxLbj5J/Xlk4pBS8MxEGAmH4s46lTJzhIBhzyG85/B2XWQPhu5phJfje/mgwzovQAI4K9Y0AMlnSXQ==;EndpointSuffix=core.windows.net",
     "FUNCTIONS_EXTENSION_VERSION": "~2",
-    "SftpHostFingerprint": "ssh-rsa 2048 90:4d:c4:88:d7:ad:48:70:ed:f3:38:f6:af:42:0c:C3",
+    "SftpHostFingerprint": "ssh-rsa 2048 90:4d:c4:88:d7:ad:48:70:ed:f3:38:f6:af:42:0c:c3",
     "SftpKellermanLicense": "2;711FE70E7A5F257E77C857B29619A6EBD8",
     "SftpKellermanUser": "hcms 202233",
     "SftpLibrary": "Kellerman",
